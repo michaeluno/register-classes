@@ -1,6 +1,6 @@
 <?php
 /**
- * Helps set up auto-load classes.
+ * Helps to set up auto-load classes.
  * 
  * @author      Michael Uno <michael@michaeluno.jp>
  * @copyright   2015 (c) Michael Uno
